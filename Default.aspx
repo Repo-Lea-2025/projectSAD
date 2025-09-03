@@ -33,7 +33,7 @@
 		.anioC {
 			display: none;
 		}
-		                                                            /* ULTIMA PRUEBA */
+		                                                            /* ULTIMA PRUEBA miercoles*/
 		/* ACCEDER A LOS PROGRAMAS */
 		.botones-container {
 			display: flex;
